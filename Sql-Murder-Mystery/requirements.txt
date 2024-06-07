@@ -1,0 +1,5 @@
+jupyter==1.0.0
+jupyter-sql==0.1.0
+jupyterlab==4.2.1
+pandas==2.2.2
+setuptools==70.0.0
