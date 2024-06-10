@@ -16,9 +16,9 @@ Uma vez que você tenha completado os tutoriais e os exercícios do HackerRank, 
 
 Como entrega, esperamos um relatório em uma Notebook Colab (Jupyter) detalhando o processo que você utilizou para descobrir o assassino.
 
-Você pode começar a partir do [modelo neste repositório](https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.ipynb).
+Você pode começar a partir do [modelo neste repositório](https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.pt.ipynb).
 
-<a target="_blank" href="https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.pt.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
