@@ -22,6 +22,8 @@ Você pode começar a partir do [modelo neste repositório](https://colab.resear
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+* [Comece a usar o Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
+
 ## 2. Tutoriais Interativos
 
 A seguir está a ordem em que sugerimos seguir os tutoriais.
