@@ -33,6 +33,8 @@ Puedes empezar desde la [plantilla en este repositorio](https://colab.research.g
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+* [Comienza a usar Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
+
 ## 2. Tutoriales Interactivos
 
 A continuación esta el orden en que te sugerimos seguir los tutoriales.
