@@ -1,4 +1,4 @@
-# Tutoriales Interactivos de SQLZoo
+# Tutoriales Interactivos
 
 ## 1. Resumen del proyecto
 
@@ -21,6 +21,18 @@ revisarán y discutirán las soluciones propuestas.
 Nota: Es importante elegir MySQL como base de datos para solucionar
 los ejercicios de [HackerRank](https://www.hackerrank.com/).
 
+### SQL Murder Mystery 🕵️‍♀️
+
+Una vez que hayas completado los tutoriales y los ejercicios de HackerRank, estarás en condiciones de utilizar tus habilidades en SQL para ayudarnos a resolver un misterio: Se ha producido un asesinato en 2018 y hemos accedido a la base dedatos de la policía de SQL City. Necesitamos tu ayuda para encontrar al culpable.
+
+Como entregable esperamos un informe en una Notebook Colab (Jupyter) que detalle el proceso que utilizaste para descubrir al asesino.
+
+Puedes empezar desde la [plantilla en este repositorio](https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.ipynb).
+
+<a target="_blank" href="https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## 2. Tutoriales Interactivos
 
 A continuación esta el orden en que te sugerimos seguir los tutoriales.
@@ -32,9 +44,9 @@ A continuación esta el orden en que te sugerimos seguir los tutoriales.
 
 5. Completar los siguientes ejercicios de HackerRank:
 
-* [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
-* [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)
-* [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
+    * [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
+    * [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)
+    * [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
 
 6. [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
 7. [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
@@ -42,23 +54,23 @@ A continuación esta el orden en que te sugerimos seguir los tutoriales.
 
 10. Completar los siguientes ejercicios de HackerRank:
 
-* [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
-* [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
-* [Contest Leader Board](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
-* [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)
+    * [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
+    * [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
+    * [Contest Leader Board](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
+    * [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)
 
 11. [More JOIN operations](https://sqlzoo.net/wiki/The_JOIN_operation)
 12. [Self join](https://sqlzoo.net/wiki/Self_join)
 
-* [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
-* [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
+    * [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
+    * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 
 13. [Using Null](https://sqlzoo.net/wiki/Using_Null)
 
 14. Completar los siguientes ejercicios de HackerRank:
 
-* [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
-* [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
+    * [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
+    * [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
 
 ## 3. Consideraciones para pedir tu Project Feedback
 
@@ -66,6 +78,7 @@ Antes de agendar tu Project Feedback con tu coach, asegúrate de:
 
 - [ ] Completar los 10 tutoriales propuestos
 - [ ] Completar los 11 ejercicios de HackerRank propuestos
+- [ ] Descubrir al asesino y escribir un informe en una Notebook Colab (Jupyter)
 
 ## 4. Objetivos de aprendizaje
 
