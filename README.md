@@ -75,9 +75,9 @@ resolver los siguientes ejercicios de HackerRank. Estos ejercicios tienen un alt
 Es normal que te acuesten resolverlos. Sin embargo no dejes que eso te frustre. Intentalos resolverlos y
 explora y discute las diferentes alternativas de soluciones con una coach.
 
-    * [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
-    * [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
-    * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
+ * [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
+ * [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
+ * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 
 ## 3. Consideraciones para pedir tu Project Feedback
 
