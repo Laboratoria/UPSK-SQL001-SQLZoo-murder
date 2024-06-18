@@ -61,7 +61,7 @@ A continuación esta el orden en que te sugerimos seguir los tutoriales.
     * [Contest Leader Board](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
     * [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)
 
-11. [More JOIN operations](https://sqlzoo.net/wiki/The_JOIN_operation)
+11. [More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations)
 12. [Self join](https://sqlzoo.net/wiki/Self_join)
 
     * [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
@@ -84,7 +84,7 @@ explora y discute las diferentes alternativas de soluciones con una coach.
 Antes de agendar tu Project Feedback con tu coach, asegúrate de:
 
 - [ ] Completar los 10 tutoriales propuestos
-- [ ] Completar los 11 ejercicios de HackerRank propuestos
+- [ ] Completar los 8 ejercicios de HackerRank propuestos
 - [ ] Descubrir al asesino y escribir un informe en una Notebook Colab (Jupyter)
 
 ## 4. Objetivos de aprendizaje
